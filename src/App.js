@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
 import { HashRouter as Router, Route} from "react-router-dom";
 import landingPage from './pages/landingPage';
